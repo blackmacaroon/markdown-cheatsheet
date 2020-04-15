@@ -16,6 +16,9 @@ Exponentials/Superscript
 Toss a carat in there ^to create exponentials
 Or check this out: AHHH^H^H^H^H^H^H^H
 
+Link
+[title](url)
+
 Code
      Allegedly if you indent 4 or more, it'll turn to inline code
 One backtick `on either side`
