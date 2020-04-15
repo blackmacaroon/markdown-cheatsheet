@@ -17,7 +17,7 @@ Toss a carat in there ^to create exponentials
 Or check this out: AHHH^H^H^H^H^H^H^H
 
 Link
-[title](url)
+[brackets around title]parentheses around url(url)
 
 Code
      Allegedly if you indent 4 or more, it'll turn to inline code
